@@ -1,2 +1,5 @@
 # Shopify-Sales-Customer-Funnel-Report-Power-BI-Project
-Shopify | Sales customer funnel report using Power BI
+This Power BI dashboard offers a comprehensive analysis of Shopify's e-commerce performance over a one-week period. It highlights vital business metrics and uncovers trends in customer behavior, product performance, and revenue distribution.
+By breaking down the data into intuitive visual components, the dashboard allows for quick identification of topperforming products, regions, and customer segments. It enables deeper understanding of buyer behavior, such as purchase frequency and preferred payment methods, helping businesses to optimize customer retention strategies.
+The interactive filters empower users to explore the dataset dynamically and focus on specific metrics relevant to their roles or departments. Through effective DAX-driven calculations, the report supports advanced analysis such as Customer Lifetime Value and Repeat Purchase Rate, which are crucial for long-term planning.
+The insights generated through this project support smarter business decisions, enhance marketing strategies, promote operational efficiency, and strengthen customer engagement across the sales funnel.
